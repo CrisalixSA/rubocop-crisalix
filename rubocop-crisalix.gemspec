@@ -1,6 +1,6 @@
 Gem::Specification.new do |spec|
   spec.name = "rubocop-crisalix"
-  spec.version = "1.0.0"
+  spec.version = "0.1.0"
   spec.summary = "RuboCop default setup for Ruby projects in Crisalix"
   spec.authors = ["Marc Anguera Insa"]
   spec.email = ["srmarc.ai@gmail.com"]
