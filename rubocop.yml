@@ -3,6 +3,7 @@ require: rubocop-performance
 AllCops:
   SuggestExtensions: false
   NewCops: disable
+  TargetRubyVersion: 3.2
 
 # Bundler
 Bundler/OrderedGems:

@@ -4,10 +4,13 @@ Gem::Specification.new do |spec|
   spec.summary = "RuboCop default setup for Ruby projects in Crisalix"
   spec.authors = ["Marc Anguera Insa"]
   spec.email = ["srmarc.ai@gmail.com"]
+  spec.homepage = "https://github.com/CrisalixSA/rubocop-crisalix"
   spec.license = "MIT"
 
-  s.files = %w[rubocop.yml]
+  spec.files = %w[rubocop.yml]
 
   spec.add_dependency "rubocop"
-  spec.add_dependency "rubocop-performanace"
+  spec.add_dependency "rubocop-performance"
+
+  spec.add_development_dependency "rake"
 end
