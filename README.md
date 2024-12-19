@@ -1,4 +1,4 @@
-# Ruby styling for Crisalix
+# Ruby styling at Crisalix
 
 Ruby is a beautifully expressive language that embraces and celebrates a variety of dialects. It was never intended to be constrained to a single, uniform style across all libraries, frameworks, or applications.
 
