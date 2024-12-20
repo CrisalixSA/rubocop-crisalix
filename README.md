@@ -1,6 +1,6 @@
 # Ruby styling at Crisalix
 
-Ruby is a beautifully expressive language that embraces and celebrates a variety of dialects. It was never intended to be constrained to a single, uniform style across all libraries, frameworks, or applications.
+Ruby is a beautifully expressive language that embraces and celebrates a variety of dialects. It was never intended to be constrained to a single, uniform style across all libraries and applications.
 
 This collection of RuboCop styles is designed for those who haven’t yet adopted a specific dialect. It offers a reasonable starting point, providing default rules to help establish a consistent approach to Ruby styling, while being very permissive.
 
@@ -27,4 +27,4 @@ Now you can run `bundle exec rubocop` to check for compliance and `bundle exec r
 
 ## License
 
-This gem is released under the [MIT License](https://opensource.org/license/mit/).
+This gem is released under the [MIT License](LICENSE).
