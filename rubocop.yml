@@ -1,12 +1,15 @@
-require: rubocop-performance
+require:
+  - rubocop-performance
+
+inherit_mode:
+  merge:
+    - Exclude
 
 AllCops:
   SuggestExtensions: false
   NewCops: disable
   TargetRubyVersion: 3.2
   Exclude:
-    - 'node_modules/**/*'
-    - 'tmp/**/*'
     - 'db/**/*'
     - 'config/**/*'
 
