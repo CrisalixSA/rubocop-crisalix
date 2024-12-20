@@ -27,7 +27,7 @@ Now you can run `bundle exec rubocop` to check for compliance and `bundle exec r
 
 ## Acknowledgments
 
-This projects was inspired by [rails/rubocop-rails-omakase](https://github.com/rails/rubocop-rails-omakase), [shopify/ruby-style-guide](https://github.com/Shopify/ruby-style-guide) and [github/rubocop-github](https://github.com/github/rubocop-github).
+This project was inspired by [rails/rubocop-rails-omakase](https://github.com/rails/rubocop-rails-omakase), [shopify/ruby-style-guide](https://github.com/Shopify/ruby-style-guide) and [github/rubocop-github](https://github.com/github/rubocop-github).
 
 ## License
 
