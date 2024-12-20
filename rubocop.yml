@@ -26,6 +26,10 @@ Lint/MissingSuper:
   Enabled: false
 Lint/UnderscorePrefixedVariableName:
   Enabled: false
+Lint/AssignmentInCondition:
+  Enabled: false
+Lint/Loop:
+  Enabled: false
 
 # Styles
 Style/OptionalBooleanParameter:
@@ -74,6 +78,8 @@ Style/ParallelAssignment:
   Enabled: false
 Style/TernaryParentheses:
   Enabled: false
+Style/MixinGrouping:
+  Enabled: false
 
 # Metrics
 Metrics/ClassLength:
@@ -93,6 +99,10 @@ Metrics/PerceivedComplexity:
 Naming/MethodParameterName:
   Enabled: false
 Naming/VariableNumber:
+  Enabled: false
+Naming/PredicateName:
+  Enabled: false
+Naming/AccessorMethodName:
   Enabled: false
 
 # Layout
