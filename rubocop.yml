@@ -80,6 +80,14 @@ Style/TernaryParentheses:
   Enabled: false
 Style/MixinGrouping:
   Enabled: false
+Style/OptionalArguments:
+  Enabled: false
+Style/NumericPredicate:
+  Enabled: false
+Style/CommentedKeyword:
+  Enabled: false
+Style/ModuleFunction:
+  Enabled: false
 
 # Metrics
 Metrics/ClassLength:
@@ -94,6 +102,8 @@ Metrics/CyclomaticComplexity:
   Max: 20
 Metrics/PerceivedComplexity:
   Max: 20
+Metrics/ModuleLength:
+  Enabled: false
 
 # Naming
 Naming/MethodParameterName:
@@ -103,6 +113,8 @@ Naming/VariableNumber:
 Naming/PredicateName:
   Enabled: false
 Naming/AccessorMethodName:
+  Enabled: false
+Naming/MemoizedInstanceVariableName:
   Enabled: false
 
 # Layout
