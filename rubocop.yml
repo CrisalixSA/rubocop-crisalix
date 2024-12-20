@@ -62,6 +62,18 @@ Style/HashSyntax:
   Enabled: false
 Style/ConditionalAssignment:
   Enabled: false
+Style/EmptyMethod:
+  Enabled: false
+Style/NegatedIf:
+  Enabled: false
+Style/GuardClause:
+  Enabled: false
+Style/NumericLiterals:
+  Enabled: false
+Style/ParallelAssignment:
+  Enabled: false
+Style/TernaryParentheses:
+  Enabled: false
 
 # Metrics
 Metrics/ClassLength:
@@ -80,6 +92,8 @@ Metrics/PerceivedComplexity:
 # Naming
 Naming/MethodParameterName:
   Enabled: false
+Naming/VariableNumber:
+  Enabled: false
 
 # Layout
 Layout/FirstArrayElementIndentation:
@@ -89,4 +103,12 @@ Layout/FirstHashElementIndentation:
 Layout/LineLength:
   Enabled: false
 Layout/IndentationWidth:
+  Enabled: false
+Layout/HashAlignment:
+  Enabled: false
+Layout/ElseAlignment:
+  Enabled: false
+Layout/MultilineMethodCallBraceLayout:
+  Enabled: false
+Layout/EndAlignment:
   Enabled: false
