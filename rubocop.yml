@@ -30,6 +30,8 @@ Lint/AssignmentInCondition:
   Enabled: false
 Lint/Loop:
   Enabled: false
+Lint/SafeNavigationChain:
+  Enabled: false
 
 # Styles
 Style/OptionalBooleanParameter:
@@ -88,6 +90,8 @@ Style/CommentedKeyword:
   Enabled: false
 Style/ModuleFunction:
   Enabled: false
+Style/Lambda:
+  Enabled: false
 
 # Metrics
 Metrics/ClassLength:
@@ -133,4 +137,6 @@ Layout/ElseAlignment:
 Layout/MultilineMethodCallBraceLayout:
   Enabled: false
 Layout/EndAlignment:
+  Enabled: false
+Layout/CaseIndentation:
   Enabled: false
