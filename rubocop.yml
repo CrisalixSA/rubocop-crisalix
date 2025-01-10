@@ -80,6 +80,8 @@ Style/ParallelAssignment:
   Enabled: false
 Style/TernaryParentheses:
   Enabled: false
+Style/MultilineTernaryOperator:
+  Enabled: false
 Style/MixinGrouping:
   Enabled: false
 Style/OptionalArguments:
