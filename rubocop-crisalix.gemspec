@@ -9,7 +9,7 @@ Gem::Specification.new do |spec|
 
   spec.files = %w[rubocop.yml]
 
-  spec.add_dependency "rubocop"
+  spec.add_dependency "rubocop", ">= 1.72"
   spec.add_dependency "rubocop-performance"
 
   spec.add_development_dependency "rake"
