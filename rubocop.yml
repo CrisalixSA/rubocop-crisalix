@@ -122,7 +122,7 @@ Naming/MethodParameterName:
   Enabled: false
 Naming/VariableNumber:
   Enabled: false
-Naming/PredicateName:
+Naming/PredicatePrefix:
   Enabled: false
 Naming/AccessorMethodName:
   Enabled: false
