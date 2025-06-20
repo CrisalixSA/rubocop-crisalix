@@ -94,6 +94,10 @@ Style/ModuleFunction:
   Enabled: false
 Style/Lambda:
   Enabled: false
+Style/PercentLiteralDelimiters:
+  Enabled: false
+Style/NilComparison:
+  Enabled: false
 
 # Metrics
 Metrics/ClassLength:
